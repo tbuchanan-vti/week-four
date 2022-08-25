@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:wght@300;400;500;600;700&display=swap');
+body{
+    font-family: 'Rubik', sans-serif;
+    font-size: 18px;
+    color: #333;
+}
+/* Div container element */
+div{
+   /* border: 1px solid red; */
+   width: 600px; 
+   /* centering the div */
+   margin: auto;
+}
